@@ -1,0 +1,28 @@
+<resources>
+    <string name="core_app_name">xgcore</string>
+    <string name="core_cancel">取消</string>
+    <string name="core_ok">确定</string>
+    <string name="core_call">拨打</string>
+    <string name="core_authenticate_before_grab">接单前需通过认证哦</string>
+    <string name="core_authenticate_now">是否前往认证？</string>
+    <string name="core_authenticate">认证</string>
+    <string name="core_authenticate_failed">审核未通过</string>
+    <string name="core_authenticate_again">请重新提交认证信息</string>
+    <string name="core_re_authenticate">重新认证</string>
+    <string name="core_deposit_insufficient">押金不足</string>
+    <string name="core_charge_deposit">押金不足%d元，是否前往充值</string>
+    <string name="core_account_frozen">账户冻结</string>
+    <string name="core_cavalier_account_frozen_tip">您的骑手账户由于违规操作已被冻结，账户解冻请联系客服：%s</string>
+    <string name="core_open_gps">定位服务未开启</string>
+    <string name="core_setting_now">立即开启</string>
+    <string name="core_setting_gps_tip">请在系统设置中，打开“定位服务”来允许“兔波波”确定您的位置</string>
+    <string name="core_please_do_not_use_common_pwd">请不要使用相同数字</string>
+    <string name="core_please_do_not_use_countinuation_pwd">请不要使用连续数字</string>
+    <string name="core_no_finished_list">列表为空</string>
+    <string name="core_input_six_pwd">请输入6位支付密码，以校验身份</string>
+    <string name="core_no_bank_pwd">（非银行卡密码）</string>
+    <string name="core_network_error">很抱歉，\n您的网络不太顺畅哦~</string>
+    <string name="core_network_error_note">很抱歉，您的网络不太顺畅哦~</string>
+    <string name="core_reload">重新加载</string>
+    <string name="core_charge">充值</string>
+</resources>

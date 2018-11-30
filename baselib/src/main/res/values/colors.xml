@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="core_white">#ffffff</color>
+    <color name="core_transparent">#00000000</color>
+    <color name="core_color_41444e">#41444e</color>
+    <color name="core_color_cccccc">#cccccc</color>
+    <color name="core_color_ffd800">#ffd800</color>
+    <color name="core_color_000000">#000000</color>
+    <color name="core_color_e5e5e5">#e5e5e5</color>
+    <color name="core_color_7dba50">#7dba50</color>
+    <color name="core_color_d9d9d9">#d9d9d9</color>
+    <color name="core_color_f7f7f7">#f7f7f7</color>
+    <color name="core_color_fb4e23">#fb4e23</color>
+    <color name="core_color_474747">#474747</color>
+    <color name="core_color_363636">#363636</color>
+    <color name="core_color_eeeeee">#eeeeee</color>
+    <color name="core_color_666666">#666666</color>
+    <color name="core_color_7f7f7f">#7f7f7f</color>
+    <color name="core_color_dddddd">#dddddd</color>
+    <color name="core_color_6b6b76">#6b6b76</color>
+    <color name="core_color_9397a1">#9397a1</color>
+    <color name="core_color_f3f5f9">#f3f5f9</color>
+    <color name="core_color_ffcc00">#ffcc00</color>
+    <color name="core_color_action_bar_bg">@color/core_white</color>
+</resources>

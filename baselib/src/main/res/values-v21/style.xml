@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="core_DialogButtonTextStyle">
+        <item name="android:layout_height">45dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/core_color_7dba50</item>
+        <item name="android:background">@drawable/selector_dialog_btn</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+</resources>

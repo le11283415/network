@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="core_action_bar_height">44dp</dimen>
+    <dimen name="core_action_bar_back_width">46dp</dimen>
+    <dimen name="core_action_bar_title_text_size">18sp</dimen>
+    <dimen name="core_action_bar_right_text_size">15sp</dimen>
+
+
+    <dimen name="core_0.5dp">0.5dp</dimen>
+
+    <dimen name="core_dialog_padding_vertical">20dip</dimen>
+    <dimen name="core_dialog_text_margin_horizontal">15dip</dimen>
+    <dimen name="core_big_text_size">17dp</dimen>
+</resources>
